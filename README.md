@@ -1,3 +1,5 @@
+<img src="./RoadMap/assets/Capa.jpeg" />
+
 # SpaceCoders: #100DiasDeCodigo
 
 Olá, spacecoders! 🖖
